@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #2196f3;
+    --color-secondary: #202124;
+    --color-bg: #141414;
+    --color-body: #fff; 
+
+  }
+
+  html {
+    @apply font-sans text-base font-normal bg-bg text-body tracking-wide;
+  }
+}
