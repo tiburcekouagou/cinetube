@@ -12,6 +12,6 @@
   }
 
   html {
-    @apply font-sans text-base font-normal bg-bg text-body tracking-wide;
+    @apply font-sans text-base font-normal bg-bg text-body tracking-wide h-screen overflow-hidden;
   }
 }

@@ -1,3 +1,3 @@
 <template>
-    <div class="text-3xl underline">welcome to nuxt</div>
+    <div class="text-3xl underline">Netflix</div>
 </template>
